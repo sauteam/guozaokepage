@@ -5,56 +5,42 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+Feb 23 2025
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
 
-<br>
+Although all the clauses contained in this agreement are standard clauses about software products, it is advised that you read them entirely.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+This End-User License Agreement (“EULA”) constitutes an agreement between you and Better Desktop (herein referred to as the “Owner”) with regard to the Better Desktop application for Mobile Phones (herein referred to as “Software Product” or “Software”). By installing the Software, you are agreeing to be bound by the terms of this license agreement.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Your use of the Software (as specified below) is subject to the terms and conditions set forth in this EULA. If you do not accept the terms of this EULA, do not install or use the Software.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+### LICENSE.
 
-<br>
+The Software is licensed, not sold. The Owner grants you a non-exclusive, non-transferable, non-sublicensable, limited right and license to use one copy of the Software for your personal non-commercial use on a single device. The rights granted herein are subject to your compliance with this EULA. The Software is being licensed to you and you hereby acknowledge that no title or ownership in the Software is being transferred or assigned and this EULA is not to be construed as a sale of any rights in the Software.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+RESTRICTIONS OF USE. Unless the Owner has authorized you to distribute the Software, you shall not make or distribute copies of the Software or transfer the Software from one device to another. You shall not decompile, reverse engineer, disassemble, include in other software, or translate the Software, or use the Software for any commercial purposes. You shall not modify, alter, change or otherwise make any modification to the Software or create derivative works based upon the Software. You shall not rent, lease, resell, sub-license, assign, distribute or otherwise transfer the Software or this license. Any attempt to do so shall be void and of no effect.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+### COPYRIGHT.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+You acknowledge that no title to the intellectual property in the Software is transferred to you. You further acknowledge that title and full ownership rights to the Software will remain the exclusive property of Better Desktop, and you will not acquire any rights to the Software. You shall not remove or obscure the Owner’s copyright, trademark or other proprietary notices from any of the materials contained in this package or downloaded together with the Software.
 
-<br>
+### DISCLAIMER OF WARRANTY.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+The Software is provided “AS IS”, without warranty of any kind. We disclaim and make no express or implied warranties and specifically disclaim the warranties of merchantability, fitness for a particular purpose and non-infringement of third-party rights. The entire risk as to the quality and performance of the Software is with you. We do not warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be error-free.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+### LIMITATION OF LIABILITY.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+In no event will the Owner be liable for special, incidental or consequential damages resulting from possession, access, use or malfunction of the Software, including but not limited to damages to property, loss of goodwill, computer or mobile device malfunction and, to the extent permitted by law, damages for personal injuries, property damage, lost profits or punitive damages from any causes of action arising out of or related to this EULA or the Software, whether arising in tort (including negligence), contract, strict liability or otherwise and whether or not the Owner has been advised of the possibility of such damages. Because some states/countries do not allow certain limitations of liability, this limitation of liability shall apply to the fullest extent permitted by law in the applicable jurisdiction. This limitation of liability shall not be applied solely to the extent that any specific provision of this limitation of liability is prohibited by any federal, state, or municipal law, which cannot be pre-empted. This EULA gives you specific legal rights, and you may have other rights that vary from jurisdiction to jurisdiction. In no event shall the Owner’s liability for all damages (except as required by applicable law) exceed the actual price paid by you for use of the Software.
 
-<br>
+### PRIVACY.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+You can find our Privacy Policy on our website or in our application. It is advised that you read them entirely.
 
-<br>
+### INDEMNITY.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+You agree to indemnify, defend and hold the Owner harmless from and against any and all damages, losses, and expenses arising directly or indirectly from: (i) your acts and omissions to act in using the Software pursuant to the terms of the EULA; or (ii) your breach of this EULA.
+
+### CHANGES.
+
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. Any changes we may make to our privacy policy in the future will be posted on this page. You should check this page from time to time and take note of any changes.
