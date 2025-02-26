@@ -40,9 +40,10 @@ features                                  :
     description                           : 源自武汉的高端社交网络，光谷社区、创业、光谷客
     fontawesome_icon_name                 : mobile
   
-    - title                               : 光谷客
+  - title                                 : 光谷客
     description                           : 关注助力武汉互联网发展~
     fontawesome_icon_name                 : star
+      
   
   
 
