@@ -15,7 +15,7 @@
 </head>
 <body>
 <p class="p1"><span class="s1">{% if site.your_name %}</span></p>
-<p class="p2"><span class="s1">By SauTeam{% if site.your_link %}<a href="file:///Users/scy/workspace/dev/ios/pro/ot/log/guozaokepage/_includes/%7B%7B%20site.your_link%20%7D%7D"><span class="s2">{% endif %}{{ site.your_name }}{% if site.your_link %}</span></a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</span></p>
+<p class="p2"><span class="s1">{% if site.your_link %}<a href="file:///Users/scy/workspace/dev/ios/pro/ot/log/guozaokepage/_includes/%7B%7B%20site.your_link%20%7D%7D"><span class="s2">{% endif %}{{ site.your_name }}{% if site.your_link %}</span></a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</span></p>
 <p class="p1"><span class="s1">{% endif %}</span></p>
 <p class="p1"><span class="s1">{% if site.facebook_username %} {% endif %} {% if site.twitter_username %} {% endif %} {% if site.instagram_username %} {% endif %} {% if site.mastodon_link %} {% endif %} {% if site.github_username %} {% endif %} {% if site.email_address %} {% endif %}</span></p>
 <p class="p1"><span class="s1">{% for page in site.pages %} <a href="file:///Users/scy/workspace/dev/ios/pro/ot/log/guozaokepage/_includes/%7B%7B%20page.url%20%7C%20relative_url%20%7D%7D"><span class="s2">{{ page.title }}</span></a> {% endfor %} {% if site.presskit_download_link %} <a href="file:///Users/scy/workspace/dev/ios/pro/ot/log/guozaokepage/_includes/%7B%7B%20site.presskit_download_link%20%7D%7D"><span class="s2">Press Kit</span></a> {% endif %}</span></p>
