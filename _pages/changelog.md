@@ -10,5 +10,9 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 <br>
 
 ### `Latest`
-# **Version 1.4**
-优化布局，可以搜索
+# **Version **
+1.5.1 搜索优化，支持用户、帖子详情搜索
+
+1.5 自定义字体样式、大小、首页节点Tab设置
+
+1.4 优化布局，可以搜索

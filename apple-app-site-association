@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "63K948ZA2P.com.guozaoke.app.ios",
+                "paths": [ "/path/to/content/*" ]
+            }
+        ]
+    }
+}
